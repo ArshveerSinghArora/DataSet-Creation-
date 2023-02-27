@@ -1,5 +1,5 @@
 ## DataSet-Creation
-#Image Recognition
+# Image Recognition
 
 In this project, I have made 10 folders ,each with 100 images of 10 different people
 Then i have created two folders 
